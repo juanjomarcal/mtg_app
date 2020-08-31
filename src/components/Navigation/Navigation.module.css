@@ -1,0 +1,14 @@
+.Navbar img {
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+}
+
+.Navbar a {
+  color: white;
+}
+
+.Navbar a:hover {
+  text-decoration: none;
+  color: white;
+}
